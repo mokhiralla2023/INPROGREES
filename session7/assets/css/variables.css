@@ -1,0 +1,33 @@
+:root {
+  /* colors */
+  --main-color: rgb(255, 83, 26);
+  --light-blue: rgb(0, 98, 255);
+  --dark-blue: rgb(5, 14, 56);
+  --gray-color: rgb(128, 128, 128);
+
+  /* font */
+  --ff-primary: "Jost", sans-serif;
+
+  --fw-regular: 500;
+  --fw-meduim: 600;
+  --fw-bold: 700;
+
+  --fs-xl: 3.125rem;
+  --fs-l: 1.8rem;
+  --fs-m: 1.25rem;
+  --fs-s: 1rem;
+
+  /* spacing */
+  --g-large: 2rem;
+  --g-medium: 1rem;
+
+  --p-xxl: 7rem;
+  --p-xl: 3rem;
+  --p-l: 2rem;
+  --p-m: 1.5rem;
+  --p-s: 1rem;
+
+  /* others */
+  --main-transition: 0.3s ease;
+  --b-round: 0.5rem;
+}
